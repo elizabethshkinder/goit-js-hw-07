@@ -9,6 +9,8 @@ items.forEach((item) => {
 
     console.log(`Categories: ${title}`);
     console.log(`Elements: ${elemCount}`);
+    
 });
+
 
 
